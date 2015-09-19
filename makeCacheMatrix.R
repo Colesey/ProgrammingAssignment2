@@ -1,4 +1,5 @@
-# This creates the "special" matrix and functions to work with a cached inverse of a matrix
+#19 Sep 2015
+#This creates the "special" matrix and functions to work with a cached inverse of a matrix
 
 # The function takes a matrix and creates a global variable called my_cache that can be read, set and changed
 # Example useage would be: test <- makeCacheMatrix(matrix(data = 1:4, nrow = 2, ncol = 2))
